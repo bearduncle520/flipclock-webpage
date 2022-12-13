@@ -1,8 +1,8 @@
 # Flip Clock Webpage
 
-**link:**   [Github Pages](https://github.com/Zyjacya-In-love/flipclock-webpage)
+**The source code:**   [Github Pages](https://github.com/Zyjacya-In-love/flipclock-webpage)
 
-**Demo:**  [Flip Clock Webpage](https://clock.zhuye.xyz) ,[可F11全屏]
+**Demo:**  [Flip Clock Webpage](https://clock.zhuye.xyz) ,[Available F11 full screen]
 
 ## Introduction
 
@@ -20,4 +20,4 @@ It's just a good clock when you have two screen and the small one display the we
     <img alt="portrait" src="./__READMEimages__/portrait_en.png" width="200">
 </p>
 
-#### 感谢 [Zyjacya-In-love](https://github.com/Zyjacya-In-love/flipclock-webpage)
+### Thanks [Zyjacya-In-love](https://github.com/Zyjacya-In-love/flipclock-webpage)
