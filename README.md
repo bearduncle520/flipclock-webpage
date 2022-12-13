@@ -1,6 +1,7 @@
 # Flip Clock Webpage
 
-**link:**   [Github Pages](https://github.com/Zyjacya-In-love/flipclock-webpage),[源码ENG],[Github Pages](https://github.com/bearduncle520/flipclock-webpage),[源码]
+**link:**   [Github Pages](https://github.com/Zyjacya-In-love/flipclock-webpage)
+
 **Demo:**  [Flip Clock Webpage](https://clock.zhuye.xyz) ,[可F11全屏]
 
 ## Introduction
